@@ -1,5 +1,5 @@
 
-## Research Lab Website Design Template
+## Artificial Intelligence for Oral Oncology Lab-HKU
 
 Website for AI for Head and Neck Oncology (AI4HNO) Lab at HKU Dentistry.
 
